@@ -1,1 +1,1 @@
-# Newton's Method for Calculating a square root in C++
+# Newton's Method for calculating a square root in C++
